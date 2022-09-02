@@ -4,8 +4,6 @@
 
 ### Key Words
 
-
-
 ---
 
 ## Input 1:
@@ -34,8 +32,30 @@ skeletons, horror, 8k, portrait, dramatic lighting, military, death, grim reaper
 
 ![DFW1N_skeletons_horror_8k_portrait_dramatic_lighting_military_d_2c70025b-5f67-43c3-8ad9-43eefc255f59](https://user-images.githubusercontent.com/45083490/188143170-db3b0ea9-012a-437f-8321-fd3cd535775f.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188150877-6e8de43b-6a58-40f6-a7e8-681e50e45dfd.png)
 
 ---
+
+![image](https://user-images.githubusercontent.com/45083490/188151025-f8f1762f-a3cd-4caa-91fd-770cbabd293b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188151226-8fb95ea0-ee94-4d5b-8921-2c59d43d134f.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188151272-8fe53934-44dc-4c3f-b9cc-7d65bd72f871.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188151408-8c17dbc1-798b-4481-9141-483a83587a8b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188151691-81ed8c14-e1c5-4fdd-8c9b-c33e58db409f.png)
+
 
 ## Input 2:
 
@@ -105,3 +125,16 @@ skeleton, lava, impaled, vlad the impaler, black plague, swords, grim reaper, da
 
 
 
+## Input 1:
+
+```bash
+persephone the queen of the underworld on a throne with a huge crown of branches and fallen leaves, autumn, darkness, full scale, in the style of prepraphaelites, John William Waterhouse, symbolic, beautiful, HD details, cinematic, atmosphericl lighting, volumetric lighting, nineteenth century painting, photorealistic, vogue cover, elegant, 8k
+```
+
+### Images:
+
+---
+
+![image](https://user-images.githubusercontent.com/45083490/188150739-1e8131bc-3c73-4153-93c5-1dbabd3ac131.png)
+
+---
