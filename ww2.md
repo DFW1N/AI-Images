@@ -36,3 +36,25 @@ solider wish gas mask on face, 2d drawing, red, working diagram, military, insig
 ![image](https://user-images.githubusercontent.com/45083490/188251660-cb178f42-e0bc-43be-b494-1cfa5e3928c6.png)
 
 
+```bash
+ full body solider wish gas mask on with wartorn background, 2d drawing, minimal red marks, working diagram, military, insignia, rank, combat uniform, ss, high details, ww2, world war 2, helment, 1940s
+```
+![image](https://user-images.githubusercontent.com/45083490/188252273-a0d14590-186a-4bf7-847b-75d5ca725a67.png)
+![image](https://user-images.githubusercontent.com/45083490/188252293-3da09cd8-64fa-4d39-9ddc-463a7abdb9ea.png)
+![image](https://user-images.githubusercontent.com/45083490/188252315-35a8f6fb-e7da-48b7-ad57-52b5c1ded2c5.png)
+![image](https://user-images.githubusercontent.com/45083490/188252356-8a4d6f45-02b0-4f51-b924-c9f4ea1f86fa.png)
+![image](https://user-images.githubusercontent.com/45083490/188252370-ccbaac01-1179-423c-9e8e-2f2799bf85f6.png)
+
+
+```bash
+full body solider wish gas mask on face, 2d drawing, red, working diagram, military, insignia, rank, combat uniform, ss, high details, ww2, world war 2, helment, 1940s, wartorn background
+```
+![image](https://user-images.githubusercontent.com/45083490/188252478-270d5a10-4b40-42b0-afc9-2fefcd79c201.png)
+![image](https://user-images.githubusercontent.com/45083490/188252487-dd8df1b3-18b4-47d4-8560-d9c2e7767cc4.png)
+
+```bash
+evil solider with scars and tattoos on face, 2d drawing, minimal red marks, gold insignia, gold marks, evil eyes, working diagram, military, insignia, rank, combat uniform, ss, high details, ww2, world war 2, helment, 1940s
+```
+![image](https://user-images.githubusercontent.com/45083490/188252860-5b2a911d-585e-4604-bf52-e3bff0aeb7de.png)
+![image](https://user-images.githubusercontent.com/45083490/188252862-eec46954-c4da-498c-9263-bc0d9dd4bac0.png)
+![image](https://user-images.githubusercontent.com/45083490/188252865-2585c3cf-7f1e-46e7-b9b9-c29495f6cfe3.png)
