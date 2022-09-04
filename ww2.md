@@ -132,10 +132,21 @@ skeleton underworld, comic book, dark, 8k, red eyes, high detail, full body, tra
 skeletons coming out of the ground, 2d drawing, high detail, black and grey, red and gold, psychedelic illustration
 ```
 ![image](https://user-images.githubusercontent.com/45083490/188312404-9cb10d18-cba1-4705-9a7a-a3ad81a5e449.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/45083490/188317219-3b1e13e0-9c84-4abf-98f9-2e17ba5a95f5.png)
 
 ```bash
 Man with big shiny sword and golden shiny armor inf front of a ruined temple, cinematic lightning, Hyperdetailed
 An extremely detailed, + labeled, davinci style, exquisite cartography map of the lake of constance
-
+a roman legion marches to war against a cosmic horror as the sun rises, oil on canvas
+industrial Horror fantasy illustration Janissary occult division
 ```
+
+```bash
+ wounded german in world war 2, 2d drawing, high detail, black and grey, red and gold
+  wounded german solider in world war 2, 2d drawing, high detail, black and grey, red and gold, iron cross, ss, trenches
+```
+
+```bash
+roman legion marching in a desert, cinematic lightning, fantasy illustration, red and gold, black and grey
+```
+
