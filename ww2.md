@@ -134,3 +134,4 @@ skeletons coming out of the ground, 2d drawing, high detail, black and grey, red
 ![image](https://user-images.githubusercontent.com/45083490/188312404-9cb10d18-cba1-4705-9a7a-a3ad81a5e449.png)
 ![Uploading image.png…]()
 
+Man with big shiny sword and golden shiny armor inf front of a ruined temple, cinematic lightning, Hyperdetailed
