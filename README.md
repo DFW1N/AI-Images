@@ -4,6 +4,11 @@
 
 ### Key Words
 
+```bash
+nft style, cyberpunk, synthwave, tarot card with intricate detailed frame around the outside | with cyberglasses neon, and earphone,dj sound,futuristic,side profile of cyberpunk body with cyborg skull | cyberpunk | styled in Art Nouveau | insanely detailed | embellishments | high definition | concept art | digital art | vibrant 
+```
+![image](https://user-images.githubusercontent.com/45083490/211554071-67afd07f-7458-4dae-a9b4-900bc17f69c5.png)
+
 ---
 
 ## Input 1:
