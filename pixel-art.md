@@ -6,6 +6,15 @@
 
 ---
 
+```bash
+young lady short hair with laureal wreath on head drawing black and white dollar style
+```
+
+![image](https://user-images.githubusercontent.com/45083490/211557935-70c86ebd-449a-4a13-bdba-5f13d359e623.png)
+
+
+---
+
 ## Input 1:
 
 ```bash
