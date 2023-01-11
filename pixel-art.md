@@ -7,6 +7,27 @@
 ---
 
 ```bash
+A highly detailed and dramatic full-color comic drawing, depicting a toy Superman action figure reflecting on a puddle in a gritty and noir city street at night. The toy is in mid-flight, with its cape billowing behind as it hovers above the puddle. The scene is bathed in cool-toned lighting, with deep shadows and bold contrasts to create a sense of tension and drama. The toy is anatomically correct and proportionate, with visible muscle definition, accurate suit details. The reflections on the puddle are glossy and have a good definition of the reflected city lights. The cityscape is recognizable and not distorted, adding to the gritty and realistic tone of the image. This comic's cover should be a masterful display of storytelling through art, with bold colors and striking contrasts, evoking the style of a Frank Miller comic.
+```
+
+![image](https://user-images.githubusercontent.com/45083490/211728880-f795a9b5-d830-4eaf-b6fd-f9698963ffdb.png)
+
+
+```bash
+Imperial Roman army with SPQR flag drawing black and white dollar style
+---
+
+```bash
+Barberstreet, barbershop, digital logo design, stylized, modern, haircut, bright, signboard, neon, street style, full hd, 4k, 3D
+barbershop logotype, men haircuts, neon, Barberstreet name, digital logo design, shadows, minimalism, simplicity, street art, barber pool, scissors logo, 30mm, 4k
+```
+
+![image](https://user-images.githubusercontent.com/45083490/211677039-7bbf78fd-7cbe-46df-b52d-da278298580a.png)
+
+
+---
+
+```bash
 young lady short hair with laureal wreath on head drawing black and white dollar style
 ```
 
