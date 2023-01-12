@@ -4,6 +4,16 @@
 
 ### Key Words
 
+
+---
+
+```bash
+A highly detailed and dramatic full-color comic drawing of a skeleton fighting in ww1 in trench warfare, evoking the style of a Frank Miller comic.
+```
+
+![image](https://user-images.githubusercontent.com/45083490/211964795-24a51894-8e1c-4b33-812a-8ded690ed08a.png)
+
+
 ---
 
 ```bash
