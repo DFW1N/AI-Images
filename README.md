@@ -4,6 +4,16 @@
 
 ### Key Words
 
+
+```bash
+1bit line arte coloring pague, white shading, outline details, isolated on white, key visuals from shadowless die cut sticker, Japanese Samurai by Cicely Mary Baker, beautiful frame--ar 2:3
+```
+
+![image](https://user-images.githubusercontent.com/45083490/212212926-d06dd227-b15e-47b6-982c-28c7c2e8a8b3.png)
+
+
+---
+
 ```bash
 nft style, cyberpunk, synthwave, tarot card with intricate detailed frame around the outside | with cyberglasses neon, and earphone,dj sound,futuristic,side profile of cyberpunk body with cyborg skull | cyberpunk | styled in Art Nouveau | insanely detailed | embellishments | high definition | concept art | digital art | vibrant 
 ```
