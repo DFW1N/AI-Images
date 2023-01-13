@@ -4,6 +4,20 @@
 
 ### Key Words
 
+```
+actor William Dafoe  as The Joker from  Batman movie , 8k high res, creative environment, Depth of Field, F/2.8, High Contrast, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, Photoshoot, Shot on 70mm, Depth of Field, DOF, 5D, Multiverse, Super-Resolution, ProPhoto RGB, Massive, Big, Spotlight, Frontlight, Halfrear Lighting, Backlight, Rim Lights, Rim Lighting, Natural Lighting, Moody Lighting, Cinematic Lighting, Volumetric Lighting, Volumetric, Rembrandt Lighting, Beautiful Lighting, Accent Lighting, Ray Tracing Global Illumination, Optics, Materiality, Ambient Occlusion, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Chromatic Aberration, CGI, VFX, SFX, elegant, in the style of a drawing, digital painting, super detailed
+```
+
+![image](https://user-images.githubusercontent.com/45083490/211984108-511fadb2-c9e4-4383-9c4d-b66527e32170.png)
+
+---
+
+Create an art poster featuring keanu reeves, the main character of "Fear and Loathing in Las Vegas" in a hotel room, in a drug-induced state, with a chaotic and twisted composition. Use reference images of Ralph Steadman's illustrations as a guide for the desired style and aesthetic. Incorporate bold lines, chaotic scribbles and a muted color palette to achieve a sense of madness and chaos. Use elements such as a skull in a twisted and distorted way to create a sense of danger and the excesses of the counterculture. Experiment with different settings and parameters such as brush size, stroke pressure and layering to achieve the desired level of detail and texture. Add bold typography, such as the title of the movie or a quote from the book, to make it more striking and memorable. Keep the design simple but chaotic and twisted to make it striking and effective.
+
+```bash
+![image](https://user-images.githubusercontent.com/45083490/212193541-88692efc-ad5b-4795-a437-819a1a70be1c.png)
+
+```
 
 ---
 
