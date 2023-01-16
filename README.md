@@ -4,6 +4,19 @@
 
 ### Key Words
 
+```bash
+Coloring Book page of a shark, sticker art, line art, white background, thick black outline on blank white background, coloring page, coloring, white sky, GMYK --no fill, shading, black, color, marks, signatures, copyright, watermarks, stamps, logo, smudges, dots, white background--ar2:3--
+```
+
+![image](https://user-images.githubusercontent.com/45083490/212614092-752e7b2f-4d9b-4644-b895-3eaf85f28fb0.png)
+
+
+```bash
+abstract 1998 album art cover by sachin teng x supreme, attractive, stylish, designer, green, asymmetrical, geometric shapes, graffiti, street art
+```
+
+![image](https://user-images.githubusercontent.com/45083490/212609506-962d3c5a-e8f3-490d-bf69-6e227b69265a.png)
+
 
 ```bash
 1bit line arte coloring pague, white shading, outline details, isolated on white, key visuals from shadowless die cut sticker, Japanese Samurai by Cicely Mary Baker, beautiful frame--ar 2:3
