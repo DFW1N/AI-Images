@@ -5,6 +5,14 @@
 ### Key Words
 
 ```bash
+a centered minimalistic vector style of Leonidas I in The Battle of Thermopylae with a Greco-Illyrian helmet in the style of da Vinci's drawing :: red :: sparta :: lions :: creatures :: snakes :: greek --no 3d, cropping --ar 3:2
+```
+
+```bash
+a centered minimalistic of a grim reaper black and white dollar style --no 3d, cropping --ar 2:3
+```
+
+```bash
 Coloring Book page of a shark, sticker art, line art, white background, thick black outline on blank white background, coloring page, coloring, white sky, GMYK --no fill, shading, black, color, marks, signatures, copyright, watermarks, stamps, logo, smudges, dots, white background--ar2:3--
 ```
 
