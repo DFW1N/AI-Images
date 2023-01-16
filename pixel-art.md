@@ -4,6 +4,10 @@
 
 ### Key Words
 
+```bash
+Centered, High Quality, Clean Lines, Dramatic, action-packed sci-fi and horror scenes full color comic drawing of a skeleton fighting in ww2 in trench warfare, with the style of Richard Corben
+```
+
 ```
 actor William Dafoe  as The Joker from  Batman movie , 8k high res, creative environment, Depth of Field, F/2.8, High Contrast, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, Photoshoot, Shot on 70mm, Depth of Field, DOF, 5D, Multiverse, Super-Resolution, ProPhoto RGB, Massive, Big, Spotlight, Frontlight, Halfrear Lighting, Backlight, Rim Lights, Rim Lighting, Natural Lighting, Moody Lighting, Cinematic Lighting, Volumetric Lighting, Volumetric, Rembrandt Lighting, Beautiful Lighting, Accent Lighting, Ray Tracing Global Illumination, Optics, Materiality, Ambient Occlusion, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Chromatic Aberration, CGI, VFX, SFX, elegant, in the style of a drawing, digital painting, super detailed
 ```
